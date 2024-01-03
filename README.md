@@ -1,7 +1,5 @@
 ## Assignment 1 - Python Basics Practice
 
-Course: Data Analysis with Python: Zero to Pandas
-
 ## Introduction:
 
 This assignment was designed to reinforce the concepts covered in the initial notebooks of the "Data Analysis with Python: Zero to Pandas" course. It focused on variables and data types, working with lists, conditions and loops, basic arithmetic operations, and optional exercises related to the sentiment analysis of fictional tweets.
